@@ -115,7 +115,8 @@ p{
 }
 .navbar li{
   float:left;
-  margin-right:10px;
+/*  margin-top: 20px;
+*/margin-right:10px;
   position:relative;
 }
 
@@ -197,6 +198,12 @@ p{
   background: #4b545f;
   background: linear-gradient(top, #4f5964)
 }*/
+
+#logo{
+  background-color: rgba(140,140,140, 0.4);
+  margin-left:20px;
+  margin-top: 5px;
+}
 
 #text
 {
