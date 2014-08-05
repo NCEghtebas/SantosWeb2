@@ -1,92 +1,17 @@
-/*body {
-  font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, san-serif;
-  background: black;
-  color: #ececec;
-  padding: 0;
-  margin: 0;
-}
-ul {
-  margin: 0;
-  padding: 0;
-}
-a {
-  color: #ccc;
-  text-decoration: none;
-}
- 
-a:hover {
-  color: #ececec;
-  text-decoration: underline;
-}
- 
-#main {
-  width: 960px;
-  margin: 0 auto;
-  background: rgba(255, 255, 255, 0.4);
-}
-header {
-  padding: 0 10px;
-  overflow: hidden;
-}
-h1 {
-  margin: 0;
-}
- 
-nav ul, ul.entries {
-  list-style-type: none;
-}
-nav li a {
-  float: left;
-  margin: 5px; 
-}
-.content {
-  padding: 10px;
-}
- 
-ul.entries li {
-  position: relative;
-  margin: 20px auto;
-  padding: 20px;
-  background: #ececec;
-  width: 600px;
-}
- 
-ul.entries img {
-  width: 600px;
-}
- 
-ul.entries li h3 {
-  position: absolute;
-  bottom: -18px;
-  left: 17px;
-  font-size: 2em;
-}
-ul.entries a {
-  color: #ececec;
-}
-ul.entries a:hover {
-  color: #fff;
-}
- 
-footer {
-  font-size: 0.65em;
-  text-align: center;
-}
-
-
-
-*/
-
-
 html { 
-  background: url('../img/cobra.jpg') no-repeat center center fixed; 
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: url('../img/mountainroad.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   margin: 0;
   padding: 0;
-}
+  }
 
 p{
   margin:0;
@@ -101,15 +26,16 @@ p{
 
 .navbar{
   position:fixed;
-  background-color: #292827;
-  color:#DEDEDE;
-  font-family: Futura, sans-serif;
+  background-color: #0F0D0B;
+  /*background-color: #292827;*/
+  color:#9B9792;
+  font-family: Railway, sans-serif;
   display: inline-block;
   width: 943px;
   list-style:none;
   font-weight:bold;
   margin-top: -10px;
-  border-bottom: thin solid #DEDEDE;
+  border-bottom: thin solid #9B9792;
   /*z-index: 99;*/
   
 }
@@ -191,7 +117,7 @@ p{
   padding-right: 15px;
   padding-left: 15px;
   padding-bottom: 10px;
-  border: 1px solid #DEDEDE;
+  border: 1px solid #9B9792;
 }
 
 /*.navbar ul li:hover{  
@@ -200,7 +126,7 @@ p{
 }*/
 
 #logo{
-  background-color: rgba(140,140,140, 0.4);
+  background-color: rgba(102, 99, 97, 0.8);
   margin-left:20px;
   margin-top: 5px;
 }
@@ -208,12 +134,12 @@ p{
 #text
 {
     position:relative;    
-    color:#DEDEDE;
+    color:#9B9792;
     font-size:24px;
     font-weight:bold;
     top:-400px;
     left: 50px;
-    background-color: rgba(41,40, 39, 0.9);/*#292827;*/
+    background-color: rgba(102, 99, 97, 0.9);/*#292827;*/
     height: 100px;
     width: 250px;
     border-style: solid;
@@ -242,9 +168,20 @@ p{
   padding:0;
   margin:0;
   width:943px;
-  background-color: #292827;
+  background-color: #0F0D0B;
+  /*background-color: #140F0A;*/
+  /*background-color: #292827;*/
   /*background-color: rgba(140,140,140, 0.4);*/
+  /*filter: url(filters.svg#grayscale);  Firefox 3.5+ */
+  /*filter: gray; /* IE6-9 */
+  /*-webkit-filter: grayscale(1);  Google Chrome, Safari 6+ & Opera 15+ */*/
 }
+
+/*To disable grayscale on hover you can use:-
+img:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}*/
 
 .project-pictuures{
   /*margin-left: auto;
@@ -253,12 +190,14 @@ p{
 }
 
 .description{
-  background-color: rgb(140,140,140);
+  background-color: rgb(102, 99, 97);
 }
 
 
 .quotes{
-  background-color: #292827;
+  background-color: #140F0A;
+  /*background-color: #0F0D0B;*/
+  /*background-color: #292827;*/
   height: 150px;
   margin:0;
   width:943px;
@@ -266,7 +205,7 @@ p{
 
 .quotes p{
   text-align: center;
-  color: #DEDEDE;
+  color: #9B9792;
   font-size: 40px;
   position: center;
   margin: 0px 0px 0px 0px;
@@ -278,7 +217,7 @@ p{
 }
 
 .transparent {
-  background-color: rgba(140,140,140, 0.4);
+  background-color: rgba(102, 99, 97, 0.4);
   /*opacity: 0.4;*/
   /*height: 400px;*/
 }
@@ -292,54 +231,17 @@ p{
 
 .mission p{
   margin-top:0px;
-  background-color: #292827;
+  background-color: #0F0D0B;
+  /*background-color: #292827;*/
+  /*background-color: #9B9792;*/
   opacity: 1.0;
   border-radius: 10px;
-  color: #DEDEDE;
+  color: #9B9792;
+  /*color: #0F0D0B;*/
   padding-top: 10px;
   padding-left: 10px;
   padding-bottom:10px;
   padding-right:10px;
-}
-
-.footer{
-  background-color: #292827;
-  color: #DEDEDE;
-  margin: auto;
-}
-
-.footer ul {
-  display: inline;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0px;
-  list-style-type: none;
-  text-transform:uppercase;
-  font-family: Futura, Tahoma, sans-serif;
-}
-
-#pad-top{
-  margin-top: 0px;
-}
-
-
-.footer li{
-  display: inline-block;
-  position: top;
-  display: block;
-  padding-top: 10px;
-  padding-right: 15px;
-  padding-left: 15px;
-  padding-bottom: 10px;
-}
-
-#red{
-  display: block;
-  padding-top: 10px;
-  padding-right: 15px;
-  padding-left: 15px;
-  padding-bottom: 10px;
 }
 
 .space{
@@ -347,7 +249,7 @@ p{
 }
 .pagelink{
   text-decoration: none;
-  color:#DEDEDE;
+  color:#9B9792;
 }
 
 #right{
@@ -357,7 +259,7 @@ p{
 
 
 .simple{
-  background-color: #DEDEDE;
+  background-color: #9B9792;
 }
 
 #message{
@@ -366,8 +268,9 @@ p{
 }
 
 .footer{
-  background-color: #292827;
-  color: #DEDEDE;
+  background-color: #0F0D0B;
+  /*background-color: #292827;*/
+  color: #9B9792;
   /*margin: auto;*/
   margin-bottom: -10px;
 }
@@ -384,9 +287,6 @@ p{
   font-family: Futura, Tahoma, sans-serif;
 }
 
-#pad-top{
-  margin-top: 0px;
-}
 
 
 .footer li{
@@ -399,13 +299,7 @@ p{
   padding-bottom: 10px;
 }
 
-#red{
-  display: block;
-  padding-top: 10px;
-  padding-right: 15px;
-  padding-left: 15px;
-  padding-bottom: 10px;
-}
+
 
 
 
