@@ -4,7 +4,7 @@ html {
 }
 
 body{
-  background: url('../img/mountainroad.jpg') no-repeat center center fixed; 
+  background: url('../img/straightdessert.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -53,7 +53,8 @@ p{
 }
 
 .navbar a:hover{
-  background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
+  /*background: linear-gradient(top, #4f5964 0%, #5f6975 40%);*/
+  background: linear-gradient(top, #0F0D0B 0%, #5f6975 40%);
 }
 
 .navbar h2 {
@@ -94,9 +95,9 @@ p{
 
 .navbar ul li:hover{
   background: #4b545f;
-  background: linear-gradient(bottom, #85151D 0%, #363636 40%);
-  background: -moz-linear-gradient(bottom, #85151D 0%, #363636 40%);
-  background: -webkit-linear-gradient(bottom, #85151D 0%, #363636 40%)
+  background: linear-gradient(bottom, #85151D 0%, #0F0D0B 40%);
+  background: -moz-linear-gradient(bottom, #85151D 0%, #0F0D0B 40%);
+  background: -webkit-linear-gradient(bottom, #85151D 0%, #0F0D0B 40%)
 }
 
 .navbar ul li:hover a{
@@ -300,6 +301,12 @@ img:hover {
 }
 
 
+.content h2 {
+  display: inline-block;
+  margin-top:100px;
 
-
+}
+.entries{
+  margin-top: 150px;
+}
 
