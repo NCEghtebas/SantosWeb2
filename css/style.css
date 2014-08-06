@@ -229,7 +229,7 @@ img:hover {
   background-color: rgba(102, 99, 97, 0.4);
   /*opacity: 0.4;*/
   /*height: 400px;*/
-  padding-bottom: 25px;
+  padding-bottom: 50px;
 }
 
 #ideatext{
@@ -310,6 +310,10 @@ img:hover {
   height:300px;
 }
 
+.aboutus{
+  margin-top: -30px;
+}
+
 .aboutus h4{
   margin-top: -20px;
   margin-left: 25px;
@@ -323,6 +327,21 @@ img:hover {
   color:#9B9792;
   border-radius: 10px;
   font-size: 18px;
+}
+
+.story{
+  float: right;
+  margin:15px;
+
+}
+
+.story a{
+  font-size: 20px;
+  color: #0F0D0B ;
+  margin-right: 10px;
+  background-color:#9B9792;
+  border-radius: 5px;
+  padding: 3px;
 }
 
 #chloe{
@@ -341,8 +360,8 @@ img:hover {
   /*margin-top:30px;*/
   display: inline-block;
   border-radius: 100px;
-  width:100px;
-  height: 100px;
+  width:110px;
+  height: 110px;
   background: url('../img/teampic.jpg') no-repeat center center fixed; 
 }
 
@@ -392,3 +411,17 @@ img:hover {
   margin-top: 50px;
 }
 
+#journey{
+  float:center;
+  margin-top:100px;
+  display: inline-block;
+  margin-left: 90px;
+}
+
+
+
+#chunk{
+  background-color: #0F0D0B;
+  float: center;
+  display: inline-block;
+}
