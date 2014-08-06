@@ -178,10 +178,10 @@ p{
   padding:0;
   margin:0;
   width:943px;
-  /*background-color: #0F0D0B;*/
+  background-color: #0F0D0B;
   /*background-color: #140F0A;*/
   /*background-color: #292827;*/
-  background-color: rgba(102, 99, 97, 0.4);
+  /*background-color: rgba(102, 99, 97, 0.4);*/
   /*background-color: rgba(140,140,140, 0.4);*/
   /*filter: url(filters.svg#grayscale);  Firefox 3.5+ */
   /*filter: gray; /* IE6-9 */
