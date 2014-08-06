@@ -127,9 +127,15 @@ p{
 }*/
 
 #logo{
-  background-color: rgba(102, 99, 97, 0.8);
+/*  display: inline-block;
+*/  background-color: rgba(102, 99, 97, 0.8);
   margin-left:20px;
   margin-top: 5px;
+  height: 100px;
+}
+
+#logopos{
+  display: inline-block;
 }
 
 #text
@@ -214,16 +220,30 @@ img:hover {
 
 #right{
   text-align: right;
-  margin-right: 10px;
+  margin-left: -200px;
+  margin-top: -30px;
 }
 
 .transparent {
   background-color: rgba(102, 99, 97, 0.4);
   /*opacity: 0.4;*/
   /*height: 400px;*/
+  padding-bottom: 25px;
+}
+
+#ideatext{
+  background-color: #0F0D0B;
+  opacity: 1.0;
+  border-radius: 10px;
+  color: #9B9792;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom:10px;
+  padding-right:10px;
 }
 
 .mission{
+  font-size: 18px;
   padding-top:90px; 
   padding-left: 60px;
   padding-right: 60px;
@@ -253,6 +273,11 @@ img:hover {
   color:#9B9792;
 }
 
+#postlink{
+  text-decoration: none;
+  color: #0F0D0B;
+}
+
 #right{
   text-align: right;
   margin-right: 10px;
@@ -266,6 +291,15 @@ img:hover {
 #message{
   width:500;
   margin-top: -50px;
+}
+
+.entries{
+  list-style-type: none;
+}
+
+#ideapost{
+  width:700px;
+  height:300px;
 }
 
 .footer{
@@ -300,13 +334,17 @@ img:hover {
   padding-bottom: 10px;
 }
 
+.content{
+  text-align: center; 
+}
 
 .content h2 {
   display: inline-block;
   margin-top:100px;
-
 }
+
+
 .entries{
-  margin-top: 150px;
+  margin-top: 50px;
 }
 
