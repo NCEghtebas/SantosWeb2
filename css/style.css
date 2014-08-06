@@ -23,6 +23,9 @@ p{
   margin: 0px auto;
 }
 
+#container{
+  padding-top: 100px;
+}
 
 .navbar{
   position:fixed;
