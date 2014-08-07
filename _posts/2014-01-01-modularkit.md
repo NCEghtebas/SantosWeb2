@@ -28,5 +28,5 @@ Older cars are difficult to personalize with features like lane detection or bac
 <h4>What’s out there</h4>
 <p>There are installable back up cameras available in China for anywhere between $25 and $150. Many of the current systems require drilling into the buyer’s car, conspicuous sensors, and  unwieldy wiring methods.
 </p>
-<p><strong>PEAK</strong backup camera feeds which replace rearview and side mirrors allow for a wider field of vision and maintain the same driver interaction.
+<p><strong>PEAK</strong> backup camera feeds which replace rearview and side mirrors allow for a wider field of vision and maintain the same driver interaction.
 </p>
