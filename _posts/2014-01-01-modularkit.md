@@ -16,7 +16,7 @@ image: /img/AddOns.png
 <li>Older cars are difficult to personalize with features like lane detection or back up cameras because cars are so closed source.</li>
 </ul>
 <h3>"I want the options to purchase without getting into the premium market"</h3>
-<p>Bob, Engineer and Driving Simulation Professor</p>
+<p><strong>Bob, Engineer and Driving Simulation Professor</strong></p>
 
 <h4>Solution</h4>
 <p>Create a basis outside of the closed car system that enables drivers to install the new gadgets. The platform should still be able to tap into the car’s data but should not rely on integrating with the car. By creating attractive and readily available add-ons, people do not feel the need to buy cars based on the features.
