@@ -432,9 +432,23 @@ img:hover {
 }
 
 
-
 #chunk{
   background-color: #0F0D0B;
   float: center;
   display: inline-block;
 }
+
+#baseballcards{
+  background-color: #9B9792;
+}
+
+.experts{
+  background-color: #9B9792;
+  height:300px;
+}
+
+.process{
+  background-color: #9B9792;
+  height:300px;
+}
+
