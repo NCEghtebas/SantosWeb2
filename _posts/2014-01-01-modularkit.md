@@ -10,10 +10,11 @@ image: /img/AddOns.jpg
 <p>Create a modular platform from which drivers can install the latest safety technologies without interfering with the aesthetics of their car. A platform with low cost and easy installation will provide drivers of all backgrounds access to the same safety technologies and hopefully speed up the trickle down effect of largely luxury safety features. 
 </p>
 <h4>Issues</h4>
-<p>Old cars do not have today’s safety features, the fleet turnover rate is 20 years. 
-Drivers wait for pre-installed features rather than purchase today’s aftermarket products.
-Older cars are difficult to personalize with features like lane detection or back up cameras because cars are so closed source.
-</p>
+<ul>
+<li>Old cars do not have today’s safety features, the fleet turnover rate is 20 years. </li>
+<li>Drivers wait for pre-installed features rather than purchase today’s aftermarket products. </li>
+<li>Older cars are difficult to personalize with features like lane detection or back up cameras because cars are so closed source.</li>
+</ul>
 <h3>"I want the options to purchase without getting into the premium market"</h3>
 <p>Bob, Engineer and Driving Simulation Professor</p>
 
