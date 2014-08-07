@@ -1,7 +1,7 @@
 ---
 layout: portfolio_entry
 title: Modular Kit
-image: /img/AddOns.jpg
+image: /img/AddOns.png
 ---
 
 <h2>Modular Add-Ons</h2>
