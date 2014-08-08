@@ -283,12 +283,12 @@ img:hover {
   color: #0F0D0B;
 }
 
-/*#ideadiv{
+#ideadiv{
   width:725px;
   padding-left: 25px;
   background-color: #9B9792;
   border-radius: 5px;
-}*/
+}
 
 #right{
   text-align: right;
@@ -322,17 +322,17 @@ img:hover {
 
 .aboutus h4{
   margin-top: -20px;
-  margin-left: 25px;
+  margin-left: 60px;
   font-size: 20px;
 }
 
 .aboutus p{
-  /*margin-top: 110px;*/
   text-align: center;
   background-color: #0F0D0B;
   color:#9B9792;
   border-radius: 10px;
   font-size: 18px;
+  width: 200px;
 }
 
 .story{
@@ -351,29 +351,24 @@ img:hover {
 }
 
 #chloe{
-  margin: 10px;
-  margin-left: 215px;
-  /*margin-top:30px;*/
+  margin-right:60px;
+  margin-left: 50px;
   display: inline-block;
   border-radius: 100px;
   width:110px;
   height: 110px;
-  /*background: url('../img/teampic.jpg') no-repeat center center fixed; */
 }
 
 #james{
-  margin: 10px;
-  /*margin-top:30px;*/
+  margin: 50px;
   display: inline-block;
   border-radius: 100px;
   width:110px;
   height: 110px;
-  /*background: url('../img/teampic.jpg') no-repeat center center fixed; */
 }
 
 #teampic{
-  /*margin: 20px;*/
-  /*margin-top:30px;*/
+  margin-left: 30px;
   display: inline-block;
   border-radius: 100px;
   width:110px;
@@ -384,7 +379,6 @@ img:hover {
   background-color: #0F0D0B;
   /*background-color: #292827;*/
   color: #9B9792;
-  /*margin: auto;*/
   margin-bottom: -10px;
 }
 
