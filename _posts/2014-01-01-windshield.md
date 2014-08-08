@@ -1,13 +1,13 @@
 ---
 layout: portfolio_entry
 title: Smart Windshield
-image: /img/Windshield.jpg
+image: /img/Windshield.png
 ---
 
 <h2>Interactive Windshield display</h2>
 
 <h4>Goal</h4>
-<p>Design a visual interface that presents relevant and useful information while keeping the driver’s eyes on the road. This interface should be highly customizable to provide only prioritized alerts and not overwhelm the driver with irrelevant, distracting, or frustrating information.
+<p>Design a visual interface that presents relevant and useful information while keeping the driver's eyes on the road. This interface should be highly customizable to provide only prioritized alerts and not overwhelm the driver with irrelevant, distracting, or frustrating information.
 </p>
 <h4>Issue</h4>
 <ul>
@@ -17,11 +17,11 @@ image: /img/Windshield.jpg
 </ul>
 
 <h4>Solution</h4>
-<p>By creating a fully customizable heads-up display system we would be able to highlight important information and “gamify” driving to a point that the drivers may be more engaged in their commutes. We would also be able to draw their attention to potential threats or situations through the front windshield display.
+<p>By creating a fully customizable heads-up display system we would be able to highlight important information and "gamify" driving to a point that the drivers may be more engaged in their commutes. We would also be able to draw their attention to potential threats or situations through the front windshield display.
 </p>
 <p>One feature that interested drivers was displaying the suggested speed limit for certain roads based on live weather and road conditions. There is more weight given to dynamic signs than to those that haven’t been adjusted despite differences between when it was set up and the current environment.
 </p>
-<p><h3>“I’d feel better if speed limits were based on actual conditions”</h3></p>
+<p><h3>"I’d feel better if speed limits were based on actual conditions"</h3></p>
 <p><strong>-Co-design partner, car modification hobbyist</strong></p>
 
 <p>This augmented reality also has the option of highlighting existing traffic rules specific to an area.  filtering out only the information relevant to their situations. For example, many drivers were excited about a visual signal within the car park in a certain area. Others were interested in the idea of internal displays of turning options.
