@@ -1,7 +1,18 @@
 ---
 layout: default
-title: Person 1
+title: Person 2
 image: /img/chloe.png
 ---
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/a/ab/John_Oliver_Occupy_Wall_Street_2011_Shankbone.JPG" width=50px>
+
 <h5>Nyall</h5>
+<p>
+46 year old Research Team Leader of Big State University Auto Department
+</p>
+<p>
+<strong>Dream Car:</strong> Kawasaki Ninja
+</p>
+<p>"New Generations don't want to drive."</p>
+<p>"We're all about safety, but we have passions."</p> 
+<p>"I ride with the attitude that everyone can kill me."</p>
