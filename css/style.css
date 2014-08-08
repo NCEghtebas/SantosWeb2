@@ -4,11 +4,10 @@ html {
 }
 
 body{
-  background: url('../img/straightdessert.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url('/img/pixel_weave/pixel_weave.png');
+  /*background: url('/img/cream_pixels/cream_pixels.png');*/
+  /*background: url('/img/witewall_3/witewall_3.png');*/
+  background-repeat: repeat; 
   margin: 0;
   padding: 0;
   }
@@ -29,9 +28,12 @@ p{
 
 .navbar{
   position:fixed;
-  background-color: #0F0D0B;
+  /*background-color: #0F0D0B;*/
   /*background-color: #292827;*/
-  color:#9B9792;
+  background-color: #3D6781;
+  /*background-color: rgba(102, 99, 97, 0.9);*/
+  /*color:#9B9792;*/
+  color: #0F0D0B;
   font-family: Railway, sans-serif;
   display: inline-block;
   width: 943px;
@@ -132,7 +134,8 @@ p{
 
 #logo{
 /*  display: inline-block;
-*/  background-color: rgba(102, 99, 97, 0.8);
+*/  
+  /*background-color: rgb(102, 99, 97);*/
   margin-left:20px;
   margin-top: 5px;
   height: 100px;
@@ -237,10 +240,9 @@ img:hover {
 }
 
 #ideatext{
-  background-color: #0F0D0B;
+  background-color: #9B9792;
   opacity: 1.0;
-  border-radius: 10px;
-  color: #9B9792;
+  color: #0F0D0B;
   padding-top: 10px;
   padding-left: 10px;
   padding-bottom:10px;
@@ -276,6 +278,11 @@ img:hover {
 .pagelink{
   text-decoration: none;
   color:#9B9792;
+}
+
+.pagelinkfooter{
+  text-decoration: none;
+  color: #0F0D0B;
 }
 
 #postlink{
@@ -376,9 +383,10 @@ img:hover {
 }
 
 .footer{
-  background-color: #0F0D0B;
+  background-color: rgba(102, 99, 97, 0.9);
+  /*background-color: #0F0D0B;*/
   /*background-color: #292827;*/
-  color: #9B9792;
+  color: #0F0D0B;
   margin-bottom: -10px;
 }
 
@@ -427,11 +435,64 @@ img:hover {
   margin-left: 90px;
 }
 
-
-#chunk{
+.expertslayout{
   background-color: #0F0D0B;
   float: center;
   display: inline-block;
+  border-radius: 5px;
+  margin-left: 250px;
+}
+
+.statslayout{
+  background-color: #0F0D0B;
+  float: center;
+  display: inline-block;
+  border-radius: 5px;
+  margin-left: 50px;
+}
+
+.causeslayout{
+  background-color: #0F0D0B;
+  float: center;
+  display: inline-block;
+  border-radius: 5px;
+  margin-left: 325px;
+  margin-top: 25px;
+}
+
+.solutionslayout{
+  /*background-color: #0F0D0B;*/
+  float: center;
+  display: inline-block;
+  border-radius: 5px;
+  margin-left: 450px;
+  margin-top: -50px;
+}
+
+.codesignlayout{
+  /*background-color: #0F0D0B;*/
+  float: center;
+  display: inline-block;
+  border-radius: 5px;
+  margin-left: 325px;
+  margin-top: -50px;
+}
+
+.pagelink2{
+  text-decoration: none;
+  color:#9B97975
+  display: inline-block;
+}
+#chunk{
+  /*background-color: #0F0D0B;*/
+  float: center;
+  display: inline-block;
+}
+
+#chunkb{
+  /*background-color: #0F0D0B;*/
+  float: center;
+  display: block;
 }
 
 #baseball{
@@ -443,8 +504,22 @@ img:hover {
   width:760px;
 }
 
-.process{
+.stats{
   background-color: #9B9792;
   width: 760px;
 }
 
+.causes{
+  background-color: #9B9792;
+  width: 760px;
+}
+
+.codesign{
+  background-color: #9B9792;
+  width: 760px;
+}
+
+.solution{
+  background-color: #9B9792;
+  width: 760px;
+}
