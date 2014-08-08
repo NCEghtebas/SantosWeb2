@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Person 2
+title: Linda
 image: /img/chloe.png
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/3/3e/Karp_mg_7725-b.cr2.jpg" width=50px>
+<img src="http://upload.wikimedia.org/wikipedia/commons/7/7e/Sheryl_Sandberg.jpg" width=200px>
 
 <h5>Linda/h5>
 <p>
-73 year old Chief Engineer of Big State University Auto Department
+53 year old Big Auto Safety Director
+
 </p>
 <p>
-<strong>Dream Car:</strong> Corvette
+<strong>Dream Car:</strong> Buick Enclave
 </p>
-<p>"We [humans] will always be the biggest fault in the system."</p>	
-<p>"Driving just doesn't excite [my grandson]."</p>
+<p>"If we are all going to be autonomous, why don't we all just take the train?"</p>
